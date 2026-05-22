@@ -1,0 +1,4 @@
+interface:
+  display_name: "通达信 RPS 查询"
+  short_description: "读取通达信个股与行业板块RPS扩展排名数据并返回历史值"
+  default_prompt: "Use $tdx-rps-query to query the latest Tongdaxin RPS values for a stock or industry board."
